@@ -1,0 +1,395 @@
+/***************** XAGIO ICONS START ******************/
+.xagio-icon {
+    display: inline-block;
+    width: 0.9em;
+    height: 0.9em;
+    background-color: currentColor;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: contain;
+    -webkit-mask-repeat: no-repeat;
+    vertical-align: middle;
+    transition: transform 150ms ease-in;
+    mask-size: 1em;
+    mask-position: -1px -1px;
+    /*align-self: baseline;*/
+}
+
+.xagio-icon-link {
+    mask-image: url('./icons/link.svg');
+    -webkit-mask-image: url('./icons/link.svg');
+}
+
+.xagio-icon-link-off {
+    mask-image: url('./icons/link-off.svg');
+    -webkit-mask-image: url('./icons/link-off.svg');
+}
+
+.xagio-icon-refresh {
+    mask-image: url('./icons/refresh.svg');
+    -webkit-mask-image: url('./icons/refresh.svg');
+}
+.xagio-icon-file {
+    mask-image: url('./icons/file.svg');
+    -webkit-mask-image: url('./icons/file.svg');
+}
+.xagio-icon-info {
+    mask-image: url('./icons/info.svg');
+    -webkit-mask-image: url('./icons/info.svg');
+}
+
+.xagio-icon-upload {
+    mask-image: url('./icons/upload.svg');
+    -webkit-mask-image: url('./icons/upload.svg');
+}
+
+.xagio-icon-download {
+    mask-image: url('./icons/download.svg');
+    -webkit-mask-image: url('./icons/download.svg');
+}
+
+.xagio-icon-gear {
+    mask-image: url('./icons/gear.svg');
+    -webkit-mask-image: url('./icons/gear.svg');
+}
+
+.xagio-icon-draw {
+    mask-image: url('./icons/draw.svg');
+    -webkit-mask-image: url('./icons/draw.svg');
+}
+.xagio-icon-plus {
+    mask-image: url('./icons/plus.svg');
+    -webkit-mask-image: url('./icons/plus.svg');
+}
+.xagio-icon-close {
+    mask-image: url('./icons/close.svg');
+    -webkit-mask-image: url('./icons/close.svg');
+}
+.xagio-icon-arrow-down {
+    mask-image: url('./icons/arrow_down.svg');
+    -webkit-mask-image: url('./icons/arrow_down.svg');
+}
+.xagio-icon-check {
+    mask-image: url('./icons/check.svg');
+    -webkit-mask-image: url('./icons/check.svg');
+}
+.xagio-icon-code {
+    mask-image: url('./icons/code.svg');
+    -webkit-mask-image: url('./icons/code.svg');
+}
+.xagio-icon-arrow-right {
+    mask-image: url('./icons/arrow_right.svg');
+    -webkit-mask-image: url('./icons/arrow_right.svg');
+}
+.xagio-icon-folder-open {
+    mask-image: url('./icons/folder_open.svg');
+    -webkit-mask-image: url('./icons/folder_open.svg');
+}
+.xagio-icon-dots-horizontal {
+    mask-image: url('./icons/dots_h.svg');
+    -webkit-mask-image: url('./icons/dots_h.svg');
+}
+
+.xagio-icon-search {
+    mask-image: url('./icons/search.svg');
+    -webkit-mask-image: url('./icons/search.svg');
+}
+.xagio-icon-store {
+    mask-image: url('./icons/store.svg');
+    -webkit-mask-image: url('./icons/store.svg');
+}
+.xagio-icon-travel-explore {
+    mask-image: url('./icons/travel_explore.svg');
+    -webkit-mask-image: url('./icons/travel_explore.svg');
+}
+.xagio-icon-school {
+    mask-image: url('./icons/school.svg');
+    -webkit-mask-image: url('./icons/school.svg');
+}
+.xagio-icon-history {
+    mask-image: url('./icons/history.svg');
+    -webkit-mask-image: url('./icons/history.svg');
+}
+.xagio-icon-google {
+    mask-image: url('./icons/google.svg');
+    -webkit-mask-image: url('./icons/google.svg');
+}
+.xagio-icon-quora {
+    mask-image: url('./icons/quora.svg');
+    -webkit-mask-image: url('./icons/quora.svg');
+}
+.xagio-icon-copy {
+    mask-image: url('./icons/copy.svg');
+    -webkit-mask-image: url('./icons/copy.svg');
+}
+.xagio-icon-sync {
+    mask-image: url('./icons/sync.svg');
+    -webkit-mask-image: url('./icons/sync.svg');
+}
+.xagio-icon-edit {
+    mask-image: url('./icons/edit.svg');
+    -webkit-mask-image: url('./icons/edit.svg');
+}
+.xagio-icon-delete {
+    mask-image: url('./icons/delete.svg');
+    -webkit-mask-image: url('./icons/delete.svg');
+}
+.xagio-icon-list {
+    mask-image: url('./icons/list.svg');
+    -webkit-mask-image: url('./icons/list.svg');
+}
+.xagio-icon-external-link {
+    mask-image: url('./icons/external_link.svg');
+    -webkit-mask-image: url('./icons/external_link.svg');
+}
+.xagio-icon-filter {
+    mask-image: url('./icons/filter.svg');
+    -webkit-mask-image: url('./icons/filter.svg');
+}
+.xagio-icon-chart-line {
+    mask-image: url('./icons/chart_line.svg');
+    -webkit-mask-image: url('./icons/chart_line.svg');
+}
+.xagio-icon-warning {
+    mask-image: url('./icons/warning.svg');
+    -webkit-mask-image: url('./icons/warning.svg');
+}
+.xagio-icon-ban {
+    mask-image: url('./icons/ban.svg');
+    -webkit-mask-image: url('./icons/ban.svg');
+}
+.xagio-icon-comment {
+    mask-image: url('./icons/comment.svg');
+    -webkit-mask-image: url('./icons/comment.svg');
+}
+.xagio-icon-quote {
+    mask-image: url('./icons/quote.svg');
+    -webkit-mask-image: url('./icons/quote.svg');
+}
+.xagio-icon-star {
+    mask-image: url('./icons/star.svg');
+    -webkit-mask-image: url('./icons/star.svg');
+}
+.xagio-icon-star-o {
+    mask-image: url('./icons/star_o.svg');
+    -webkit-mask-image: url('./icons/star_o.svg');
+}
+.xagio-icon-thumbs-up {
+    mask-image: url('./icons/thumb_up.svg');
+    -webkit-mask-image: url('./icons/thumb_up.svg');
+}
+.xagio-icon-thumbs-down {
+    mask-image: url('./icons/thumb_down.svg');
+    -webkit-mask-image: url('./icons/thumb_down.svg');
+}
+.xagio-icon-hourglass {
+    mask-image: url('./icons/hourglass.svg');
+    -webkit-mask-image: url('./icons/hourglass.svg');
+}
+.xagio-icon-plug {
+    mask-image: url('./icons/plug.svg');
+    -webkit-mask-image: url('./icons/plug.svg');
+}
+.xagio-icon-arrow-left {
+    mask-image: url('./icons/arrow_left.svg');
+    -webkit-mask-image: url('./icons/arrow_left.svg');
+}
+.xagio-icon-folder {
+    mask-image: url('./icons/folder.svg');
+    -webkit-mask-image: url('./icons/folder.svg');
+}
+.xagio-icon-image {
+    mask-image: url('./icons/image.svg');
+    -webkit-mask-image: url('./icons/image.svg');
+}
+.xagio-icon-zip {
+    mask-image: url('./icons/zip.svg');
+    -webkit-mask-image: url('./icons/zip.svg');
+}
+.xagio-icon-save {
+    mask-image: url('./icons/save.svg');
+    -webkit-mask-image: url('./icons/save.svg');
+}
+.xagio-icon-mobile {
+    mask-image: url('./icons/mobile.svg');
+    -webkit-mask-image: url('./icons/mobile.svg');
+}
+.xagio-icon-desktop {
+    mask-image: url('./icons/desktop.svg');
+    -webkit-mask-image: url('./icons/desktop.svg');
+}
+.xagio-icon-cogs {
+    mask-image: url('./icons/cogs.svg');
+    -webkit-mask-image: url('./icons/cogs.svg');
+}
+.xagio-icon-eye {
+    mask-image: url('./icons/eye.svg');
+    -webkit-mask-image: url('./icons/eye.svg');
+}
+.xagio-icon-eye-slash {
+    mask-image: url('./icons/eye_slash.svg');
+    -webkit-mask-image: url('./icons/eye_slash.svg');
+}
+.xagio-icon-arrow-up {
+    mask-image: url('./icons/arrow_up.svg');
+    -webkit-mask-image: url('./icons/arrow_up.svg');
+}
+.xagio-icon-arrows {
+    mask-image: url('./icons/arrows.svg');
+    -webkit-mask-image: url('./icons/arrows.svg');
+}
+.xagio-icon-branch {
+    mask-image: url('./icons/branch.svg');
+    -webkit-mask-image: url('./icons/branch.svg');
+}
+.xagio-icon-tag {
+    mask-image: url('./icons/tag.svg');
+    -webkit-mask-image: url('./icons/tag.svg');
+}
+.xagio-icon-align-justify {
+    mask-image: url('./icons/align_justify.svg');
+    -webkit-mask-image: url('./icons/align_justify.svg');
+}
+.xagio-icon-map {
+    mask-image: url('./icons/map.svg');
+    -webkit-mask-image: url('./icons/map.svg');
+}
+.xagio-icon-globe {
+    mask-image: url('./icons/globe.svg');
+    -webkit-mask-image: url('./icons/globe.svg');
+}
+.xagio-icon-ai {
+    mask-image: url('./icons/ai_chip.svg');
+    -webkit-mask-image: url('./icons/ai_chip.svg');
+}
+.xagio-icon-magnifying-glass-chart {
+    mask-image: url('./icons/magnifying_glass_chart.svg');
+    -webkit-mask-image: url('./icons/magnifying_glass_chart.svg');
+}
+.xagio-icon-key {
+    mask-image: url('./icons/key.svg');
+    -webkit-mask-image: url('./icons/key.svg');
+    transform: scale(1, -1) rotate(-135deg);
+}
+
+.xagio-icon-note {
+    mask-image: url('./icons/note.svg');
+    -webkit-mask-image: url('./icons/note.svg');
+}
+.xagio-icon-note-o {
+    mask-image: url('./icons/note_o.svg');
+    -webkit-mask-image: url('./icons/note_o.svg');
+}
+.xagio-icon-cloud {
+    mask-image: url('./icons/cloud.svg');
+    -webkit-mask-image: url('./icons/cloud.svg');
+}
+.xagio-icon-cloud-o {
+    mask-image: url('./icons/cloud_o.svg');
+    -webkit-mask-image: url('./icons/cloud_o.svg');
+}
+.xagio-icon-eye-o {
+    mask-image: url('./icons/eye_o.svg');
+    -webkit-mask-image: url('./icons/eye_o.svg');
+}
+.xagio-icon-brain {
+    mask-image: url('./icons/brain.svg');
+    -webkit-mask-image: url('./icons/brain.svg');
+}
+.xagio-icon-rocket {
+    mask-image: url('./icons/rocket.svg');
+    -webkit-mask-image: url('./icons/rocket.svg');
+}
+.xagio-icon-target {
+    mask-image: url('./icons/target.svg');
+    -webkit-mask-image: url('./icons/target.svg');
+}
+.xagio-icon-sort {
+    mask-image: url('./icons/sort.svg');
+    -webkit-mask-image: url('./icons/sort.svg');
+}
+.xagio-icon-sort-up {
+    mask-image: url('./icons/sort.svg');
+    -webkit-mask-image: url('./icons/sort.svg');
+    rotate: 180deg;
+}
+.xagio-icon-minus {
+    mask-image: url('./icons/minus.svg');
+    -webkit-mask-image: url('./icons/minus.svg');
+}
+.xagio-icon-robot {
+    mask-image: url('./icons/robot.svg');
+    -webkit-mask-image: url('./icons/robot.svg');
+}
+.xagio-icon-clock {
+    mask-image: url('./icons/clock.svg');
+    -webkit-mask-image: url('./icons/clock.svg');
+}
+.xagio-icon-play-circle {
+    mask-image: url('./icons/play_circle.svg');
+    -webkit-mask-image: url('./icons/play_circle.svg');
+}
+.xagio-icon-long-arrow-up {
+    mask-image: url('./icons/long_arrow_up.svg');
+    -webkit-mask-image: url('./icons/long_arrow_up.svg');
+    rotate: 45deg;
+}
+.xagio-icon-question-circle {
+    mask-image: url('./icons/question_circle.svg');
+    -webkit-mask-image: url('./icons/question_circle.svg');
+}
+.xagio-icon-align-right {
+    mask-image: url('./icons/align_right.svg');
+    -webkit-mask-image: url('./icons/align_right.svg');
+}
+.xagio-icon-analytics {
+    mask-image: url('./icons/analytics.svg');
+    -webkit-mask-image: url('./icons/analytics.svg');
+}
+.xagio-icon-home {
+    mask-image: url('./icons/home.svg');
+    -webkit-mask-image: url('./icons/home.svg');
+}
+.xagio-icon-send {
+    mask-image: url('./icons/send.svg');
+    -webkit-mask-image: url('./icons/send.svg');
+    rotate: 45deg;
+}
+.xagio-icon-at {
+    mask-image: url('./icons/at.svg');
+    -webkit-mask-image: url('./icons/at.svg');
+}
+.xagio-icon-phone {
+    mask-image: url('./icons/phone.svg');
+    -webkit-mask-image: url('./icons/phone.svg');
+}
+.xagio-icon-frown {
+    mask-image: url('./icons/frown.svg');
+    -webkit-mask-image: url('./icons/frown.svg');
+}
+.xagio-icon-check-double {
+    mask-image: url('./icons/check-double.svg');
+    -webkit-mask-image: url('./icons/check-double.svg');
+}
+
+.xagio-icon-blue {
+    color: #3a33e8;
+}
+
+
+.xagio-icon-spin {
+    animation-name: spin;
+    animation-duration: 3000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+
+/***************** XAGIO ICONS END ******************/
